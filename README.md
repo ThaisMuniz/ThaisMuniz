@@ -1,7 +1,11 @@
-### Olá! Sou a Thaís e trabalho com desenvolvimento de sistemas web desde 2010.
+### Olá! Seja bem vindo ao meu repositório.
 
-Grande parte da minha carreira é focada em desenvolvimento utilizando Java, linguagem no qual sou especialista. Entretanto, trabalhei em diversos projetos que demandaram conhecimento em outras linguagens e ferramentas como: .Net, Angular e React.
+Aqui demonstro um pouco dos meus conhecimentos e o que estou estudando atualmente.
 
-Neste perfil está um pouco da minha experiência e o que estou estudando atualmente.
+- Aqui tem:
+- Java
+- Angular
+- React
+- HTML e CSS3
+- 🌱 ATUALMENTE Estudando NodeJS.
 
-- 🌱 Estudando NodeJS.
