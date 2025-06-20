@@ -7,5 +7,5 @@ Aqui demonstro um pouco dos meus conhecimentos e o que estou estudando atualment
 - Angular
 - React
 - HTML e CSS3
-- 🌱 ATUALMENTE Estudando NodeJS.
+- 🌱 ATUALMENTE Estudando Docker.
 
