@@ -2,10 +2,9 @@
 
 Aqui demonstro um pouco dos meus conhecimentos e o que estou estudando atualmente.
 
-- Aqui tem:
+**Aqui tem:**
 - Java
-- Angular
-- React
+- Docker
 - HTML e CSS3
-- 🌱 ATUALMENTE Estudando Docker.
+- 🌱 ATUALMENTE Estudando Spring webflux e threads virtuais.
 
