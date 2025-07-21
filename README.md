@@ -5,6 +5,5 @@ Aqui demonstro um pouco dos meus conhecimentos e o que estou estudando atualment
 **Aqui tem:**
 - Java
 - Docker
-- HTML e CSS3
 - 🌱 ATUALMENTE Estudando Spring webflux e threads virtuais.
 
