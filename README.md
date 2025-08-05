@@ -7,6 +7,5 @@ Aqui demonstro um pouco dos meus conhecimentos e o que estou estudando atualment
 - SpringBoot
 - Docker
 - Rabbit MQ
-- MongoDB
 - 🌱 ATUALMENTE Estudando Spring webflux e threads virtuais.
 
